@@ -1,6 +1,6 @@
 # LegionDark Issue Tracker
 
-Welcome to the LegionDark private server issue tracker. Here you can find and create bug reports that involve issues currently happening on the LegionDark server. This tracker is to help keep an organized collection of issues for developers to work on and fix. This tracker is not for anything except bugs/issues happening on the LegionDark server. Please do not report bugs with the website(s) or other services here.
+Welcome to the LegionDark private server issue tracker. Here you can find and create bug reports that involve issues currently happening on the LegionDark server. This tracker is to help keep an organized collection of issues for developers to work on and fix. This tracker is not for anything except bugs/issues happening on the LegionDark server. 
 
 # Issue Report Template
 
