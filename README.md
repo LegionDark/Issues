@@ -4,16 +4,17 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 
 # Issue Report Template
 
-When creating a new issue, please be sure to use the following template: *(Copy and paste the following into your new ticket and fill out the info!)*
+When creating a new issue, please be sure to use the following template: 
+*(Copy and paste the following into your new ticket and fill out the info! To get coordinates use the*  @where  *command.)*
 ```
 **Date & Time**: 
 **Frequency**:
-**FFXi Client Version**:
+**FFXI Client Version**:
 **Character Name**:
 **Race**:
 **Main Job**:
 **Sub Job**:
-**Area & Coordinates (Type @where to get this info.)**:
+**Area & Coordinates**:
 **Party or Solo**:
 **NPC Name**:
 **Monster Name**:
