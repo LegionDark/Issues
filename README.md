@@ -5,7 +5,9 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 # Issue Report Template
 
 When creating a new issue, please be sure to use the following template: 
-*(Copy and paste the following into your new ticket and fill out the info! To get coordinates use the*  @where  *command.)*
+*To get client version use the*  /ver  *command or the POL filecheck menu.*
+*To get coordinates use the*  @where  *command.*
+*(Copy and paste the following into your new ticket and fill out the info!)*
 ```
 **Date & Time**: 
 **Frequency**:
@@ -18,6 +20,7 @@ When creating a new issue, please be sure to use the following template:
 **Party or Solo**:
 **NPC Name**:
 **Monster Name**:
+**Multi-boxing? (multiple clients on same connection)**:
 **Steps To Reproduce The Issue**:
 ```
 
