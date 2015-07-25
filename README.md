@@ -14,6 +14,7 @@ When creating a new issue, please be sure to use the following template: <br/>
 **FFXI Client Version**:
 **Character Name**:
 **Race**:
+**Nation**:
 **Main Job**:
 **Sub Job**:
 **Area & Coordinates**:
