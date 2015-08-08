@@ -21,6 +21,7 @@ When creating a new issue, please be sure to use the following template: <br/>
 **Party or Solo**:
 **NPC Name**:
 **Monster Name**:
+**Item ID Number -- Obtained from FFXIAH**
 **Multi-boxing? (multiple clients on same connection)**:
 **Steps To Reproduce The Issue**:
 ```
