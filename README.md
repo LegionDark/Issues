@@ -19,9 +19,8 @@ When creating a new issue, please be sure to use the following template: <br/>
 **Sub Job**:
 **Area & Coordinates**:
 **Party or Solo**:
-**NPC Name**:
-**Monster Name**:
-**Item ID Number -- Obtained from FFXIAH**
+**NPC or Monster Name**:
+**ffxiah.com link (for inventory items only): *
 **Multi-boxing? (multiple clients on same connection)**:
 **Steps To Reproduce The Issue**:
 ```
