@@ -20,7 +20,7 @@ When creating a new issue, please be sure to use the following template: <br/>
 **Area & Coordinates**:
 **Party or Solo**:
 **NPC or Monster Name**:
-**ffxiah.com link (for inventory items only): *
+**ffxiah.com link (for inventory items only)**: 
 **Multi-boxing? (multiple clients on same connection)**:
 **Steps To Reproduce The Issue**:
 ```
