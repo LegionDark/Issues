@@ -4,7 +4,7 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 
 **If the issue you woud like to report concerns a Job Ability or Job Trait, please read [this](https://github.com/LegionDark/Issues/issues/298) first.**
 
-# Issue Report Template
+## Issue Report Template
 
 When creating a new issue, please be sure to use the following template: <br/>
 *To get client version use the*  /ver  *command or the POL filecheck menu.* <br/>
@@ -30,7 +30,7 @@ When creating a new issue, please be sure to use the following template: <br/>
 Failure to follow this template will result in your issue being closed without warning / response.
 
 
-# If you wish to request a password reset, or have lost login information:
+## If you wish to request a password reset, <br>or have lost login information:
 
 Contact staff **privately** either in the forum or in IRC (**not** publicly in the IRC channel, a forum post, or on github) **with your** ***account*** **name and the** ***replacement*** **password.** 
 
