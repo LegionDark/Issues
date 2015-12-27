@@ -28,3 +28,10 @@ When creating a new issue, please be sure to use the following template: <br/>
 ```
 
 Failure to follow this template will result in your issue being closed without warning / response.
+
+
+# If you wish to request a password reset, or have lost login information:
+
+Contact staff **privately** either in the forum or in IRC (**not** publicly in the IRC channel, a forum post, or on github) **with your** ***account*** **name and the** ***replacement*** **password.** 
+
+If nobody is avilable when you look, open a ticket to remind us you need password help and we'll try to contact you, but **do not post your old or new account info on github.**
