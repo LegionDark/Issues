@@ -9,7 +9,6 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 When creating a new issue, please be sure to use the following template: <br/>
 *To get client version use the*  /ver  *command or the POL filecheck menu.* <br/>
 *To get coordinates use the*  @where  *command.* <br/>
-*(Copy and paste the following into your new ticket and fill out the info!)* <br/>
 ```
 **Date & Time**: 
 **Frequency**:
