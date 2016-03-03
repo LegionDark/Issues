@@ -6,31 +6,10 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 
 ## Issue Report Template
 
-When creating a new issue, please be sure to use the following template: <br/>
-*To get client version use the*  /ver  *command or the POL filecheck menu.* <br/>
-*To get coordinates use the*  @where  *command.* <br/>
-```
-**Date & Time**: 
-**Frequency**:
-**FFXI Client Version**:
-**Character Name**:
-**Race**:
-**Nation**:
-**Main Job**:
-**Sub Job**:
-**Area & Coordinates**:
-**Party or Solo**:
-**NPC or Monster Name**:
-**ffxiah.com link (for inventory items only)**: 
-**Multi-boxing? (multiple clients on same connection)**:
-**Steps To Reproduce The Issue**:
-```
-
-Failure to follow this template will result in your issue being closed without warning / response.
-
+When creating a new issue, please be sure to fill out the following template. The template is the pre-filled text in the edit box of new issues. **Failure to provide information asked for in this template may result in your issue being closed without warning or response!**
 
 ## If you wish to request a password reset, <br>or have lost login information:
 
 Contact staff **privately** either in the forum or in IRC (**not** publicly in the IRC channel, a forum post, or on github) **with your** ***account*** **name and the** ***replacement*** **password.** 
 
-If nobody is avilable when you look, open a ticket to remind us you need password help and we'll try to contact you, but **do not post your old or new account info on github.**
+If nobody is available when you look, open a ticket to remind us you need password help and we'll try to contact you, but **do not post your old or new account info on github.**
