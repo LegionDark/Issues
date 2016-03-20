@@ -1,3 +1,7 @@
+<!-- 
+Issues will be closed without being looked into if 
+the following information is missing (unless its not applicable)!!!
+-->
 **Date & Time**: 
 
 **FFXI Client Version (use `/ver`)**: 
@@ -16,5 +20,5 @@
 
 **Multi-boxing? (multiple clients on same connection)**: 
 
-**Steps To Reproduce The Issue**: 
+**Steps To Reproduce / any other info**: 
 
