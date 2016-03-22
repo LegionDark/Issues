@@ -3,33 +3,32 @@ Issues will be closed without being looked into if
 the following information is missing (unless its not applicable)!!!
 -->
 
-**Date & Time**:  
+**Date & Time**: 
 
 
-**FFXI Client Version (use `/ver`)**:  
+**FFXI Client Version (use `/ver`)**: 
 
 
-**Character Name**:  
+**Character Name**: 
 
 
-**Nation**:  
+**Nation**: 
 
 
-**Job(level)/Sub Job(level)**:  
+**Job(level)/Sub Job(level)**: 
 
 
-**NPC or Monster or item Name**:  
+**NPC or Monster or item Name**: 
 
 
-**Zone name & Coordinates (use `@where`)**:  
+**Zone name & Coordinates (use `@where`)**: 
 
 
-**ffxiah.com link (for items issues only)**:  
+**ffxiah.com link (for items issues only)**: 
 
 
-**Multi-boxing? (multiple clients on same connection)**:  
+**Multi-boxing? (multiple clients on same connection)**: 
 
 
-**Steps To Reproduce / any other info**:  
-
+**Steps To Reproduce / any other info**: 
 
