@@ -6,7 +6,7 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 
 ## Issue Report Template
 
-When creating a new issue, please be sure to fill out the following template. The template is the pre-filled text in the edit box of new issues. **Failure to provide information asked for in this template may result in your issue being closed without warning or response!**
+When creating a new issue, please be sure to fill out the template, which is the pre-filled text in the edit box of new issues. **Failure to provide information asked for in this template may result in your issue being closed without warning or response!**
 
 ## If you wish to request a password reset, <br>or have lost login information:
 
