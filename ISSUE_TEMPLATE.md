@@ -8,6 +8,8 @@ the following information is missing (unless its not applicable)!!!
 
 **FFXI Client Version (use `/ver`)**: 
 
+**Server's Expected Client Version matches, yes/no? (use `@ecv`)**: 
+
 
 **Character Name**: 
 
