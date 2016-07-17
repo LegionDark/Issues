@@ -10,6 +10,4 @@ When creating a new issue, please be sure to fill out the template, which is the
 
 ## If you wish to request a password reset, <br>or have lost login information:
 
-Contact staff **privately** either in the forum or in IRC (**not** publicly in the IRC channel, a forum post, or on github) **with your** ***account*** **name and the** ***replacement*** **password.** 
-
-If nobody is available when you look, open a ticket to remind us you need password help and we'll try to contact you, but **do not post your old or new account info on github.**
+[Please refer to this post.](http://legiondark.com/forums/viewtopic.php?t=1594&amp;sid=d18e2b010d42b32280e66bc8176cd5a2) Don't count on exceptions being made for you - if you shared your account with someone thats on you, not us, and register that email.
