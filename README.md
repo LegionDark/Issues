@@ -4,9 +4,9 @@ Welcome to the LegionDark private server issue tracker. Here you can find and cr
 
 **If the issue you woud like to report concerns a Job Ability or Job Trait, please read [this](https://github.com/LegionDark/Issues/issues/298) first.**
 
-## Issue Report Template
+## Issue Report Template. DO NOT REMOVE OR CHANGE THE PRE FORMATTED TEXT.
 
-When creating a new issue, please be sure to fill out the template, which is the pre-filled text in the edit box of new issues. **Failure to provide information asked for in this template may result in your issue being closed without warning or response!**
+When creating a new issue, please be sure to fill out info requested by the template, which is the **pre-filled** text in the edit box of new issues. **Failure to provide information asked for in this template or removing the formatting characters may result in your issue being closed without warning or response!**
 
 ## If you wish to request a password reset, <br>or have lost login information:
 

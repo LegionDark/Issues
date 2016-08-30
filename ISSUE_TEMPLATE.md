@@ -1,5 +1,9 @@
 <!-- 
-Issues will be closed without being looked into if 
+DO NOT REMOVE OR CHANGE THE PRE-FORMATTED TEXT!!!
+GITHUB SEES `@MENTIONS`, NOT `@GMCOMMANDS`!!!
+IF YOU STUPIDLY IGNORE THIS WARNING I WILL CLOSE YOUR ISSUE!
+
+Issues will also be closed without being looked into if 
 the following information is missing (unless its not applicable)!!!
 -->
 
