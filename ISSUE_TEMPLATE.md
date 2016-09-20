@@ -27,7 +27,10 @@ the following information is missing (unless its not applicable)!!!
 **NPC or Monster or item Name**: 
 
 
-**Zone name & Coordinates (use `$where`)**: 
+**Zone name**: 
+
+
+**Coordinates (use `$where`)**: 
 
 
 **ffxiah.com link (for items issues only)**: 
