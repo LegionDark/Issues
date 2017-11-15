@@ -13,7 +13,7 @@ the following information is missing (unless its not applicable)!!!
 **FFXI Client Version (use `/ver`)**: 
 
 
-**Server's Expected Client Version matches, yes/no? (use `$ecv`)**: 
+**Server's Expected Client Version matches, yes/no? (use `!ecv`)**: 
 
 
 **Character Name**: 
@@ -31,7 +31,7 @@ the following information is missing (unless its not applicable)!!!
 **Zone name**: 
 
 
-**Coordinates (use `$where`)**: 
+**Coordinates (use `!where`)**: 
 
 
 **ffxiah.com link (for items issues only)**: 
